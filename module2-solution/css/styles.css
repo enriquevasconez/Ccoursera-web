@@ -68,13 +68,3 @@ p{
     }    
 }
 
-@media (max-width:767px){
-    .clo-sm-12{
-        float: left;
-        width: 100%;
-        color: blue;
-    }
-
-   
-
-}
